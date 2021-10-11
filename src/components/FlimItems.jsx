@@ -17,7 +17,7 @@ const spring = {
 
 export const FilmItemsList = function() {
 
-    const films = useSelector(({ films }) => films.items);
+    const films = useSelector(({ films }) => films.items).slice(0,50);
     const likedFilms = useSelector(({ films }) => films.likedFilms);
     const isLoaded = useSelector(({ films }) => films.isLoaded);
     const filter = useSelector(({ films }) => films.filter);
