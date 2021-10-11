@@ -1,14 +1,14 @@
-import Cards from "./components/cards";
+// import Cards from "./components/cards";
+import Home from "./components/Home";
 
 
 function App() {
-
-
   return (
     <div className="App">
-        <Cards></Cards>
+        <Home></Home>
     </div>
   );
 }
+
 
 export default App;
