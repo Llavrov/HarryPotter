@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Llavrov/medianstatic/css/main.fcb7f62c.chunk.css",
+    "main.js": "/Llavrov/medianstatic/js/main.0dc7c557.chunk.js",
+    "main.js.map": "/Llavrov/medianstatic/js/main.0dc7c557.chunk.js.map",
+    "runtime-main.js": "/Llavrov/medianstatic/js/runtime-main.9fa8425c.js",
+    "runtime-main.js.map": "/Llavrov/medianstatic/js/runtime-main.9fa8425c.js.map",
+    "static/js/2.0b82a611.chunk.js": "/Llavrov/medianstatic/js/2.0b82a611.chunk.js",
+    "static/js/2.0b82a611.chunk.js.map": "/Llavrov/medianstatic/js/2.0b82a611.chunk.js.map",
+    "static/js/3.633da53c.chunk.js": "/Llavrov/medianstatic/js/3.633da53c.chunk.js",
+    "static/js/3.633da53c.chunk.js.map": "/Llavrov/medianstatic/js/3.633da53c.chunk.js.map",
+    "index.html": "/Llavrov/medianindex.html",
+    "static/css/main.fcb7f62c.chunk.css.map": "/Llavrov/medianstatic/css/main.fcb7f62c.chunk.css.map",
+    "static/js/2.0b82a611.chunk.js.LICENSE.txt": "/Llavrov/medianstatic/js/2.0b82a611.chunk.js.LICENSE.txt",
+    "static/media/likeBlack.e4ffc781.png": "/Llavrov/medianstatic/media/likeBlack.e4ffc781.png",
+    "static/media/likeRed.600eddce.png": "/Llavrov/medianstatic/media/likeRed.600eddce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa8425c.js",
+    "static/js/2.0b82a611.chunk.js",
+    "static/css/main.fcb7f62c.chunk.css",
+    "static/js/main.0dc7c557.chunk.js"
+  ]
+}
