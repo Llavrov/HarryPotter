@@ -1,5 +1,5 @@
 {
-  "name": "median",
+  "name": "Alfa-app",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://llavrov.github.io/HarryPotter/",
@@ -48,12 +48,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Llavrov/median.git"
+    "url": "git+https://github.com/Llavrov/HarryPotter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Llavrov/median/issues"
+    "url": "https://github.com/Llavrov/HarryPotter/issues"
   }
 }
