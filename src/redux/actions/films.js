@@ -15,9 +15,9 @@ const setLoaded = (payload) => ({
 
 export const fetchFilms = (filter = false) => (dispatch) => {
     setLoaded(false);
-    axios.get("http://hp-api.herokuapp.com/api/characters").then(({data}) => {
+    axios.get("https://hp-api.herokuapp.com/api/characters").then(({data}) => {
         // data = JSON.stringify(data);
-        // alert(data[0].name);
+        console.log(data);
         dispatch(setFilms(data, false));
     });
 }

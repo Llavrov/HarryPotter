@@ -26,7 +26,7 @@ export const FilmItemsList = function() {
 
     if (!isLoaded) {
         return (
-            <div><h1>We got problems!</h1></div>
+            <div className="toCenter"><h1>Loading...</h1></div>
         )
     }
     // alert(filter);
