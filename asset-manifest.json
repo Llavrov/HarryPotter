@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/HarryPotter/static/css/main.21504a2f.chunk.css",
-    "main.js": "/HarryPotter/static/js/main.3904d7ea.chunk.js",
-    "main.js.map": "/HarryPotter/static/js/main.3904d7ea.chunk.js.map",
-    "runtime-main.js": "/HarryPotter/static/js/runtime-main.3ae3c79a.js",
-    "runtime-main.js.map": "/HarryPotter/static/js/runtime-main.3ae3c79a.js.map",
-    "static/js/2.2e26310c.chunk.js": "/HarryPotter/static/js/2.2e26310c.chunk.js",
-    "static/js/2.2e26310c.chunk.js.map": "/HarryPotter/static/js/2.2e26310c.chunk.js.map",
-    "static/js/3.64040c48.chunk.js": "/HarryPotter/static/js/3.64040c48.chunk.js",
-    "static/js/3.64040c48.chunk.js.map": "/HarryPotter/static/js/3.64040c48.chunk.js.map",
+    "main.js": "/HarryPotter/static/js/main.b59d193f.chunk.js",
+    "main.js.map": "/HarryPotter/static/js/main.b59d193f.chunk.js.map",
+    "runtime-main.js": "/HarryPotter/static/js/runtime-main.8f8acddf.js",
+    "runtime-main.js.map": "/HarryPotter/static/js/runtime-main.8f8acddf.js.map",
+    "static/js/2.dcd232ce.chunk.js": "/HarryPotter/static/js/2.dcd232ce.chunk.js",
+    "static/js/2.dcd232ce.chunk.js.map": "/HarryPotter/static/js/2.dcd232ce.chunk.js.map",
+    "static/js/3.ec93ad33.chunk.js": "/HarryPotter/static/js/3.ec93ad33.chunk.js",
+    "static/js/3.ec93ad33.chunk.js.map": "/HarryPotter/static/js/3.ec93ad33.chunk.js.map",
     "index.html": "/HarryPotter/index.html",
     "static/css/main.21504a2f.chunk.css.map": "/HarryPotter/static/css/main.21504a2f.chunk.css.map",
-    "static/js/2.2e26310c.chunk.js.LICENSE.txt": "/HarryPotter/static/js/2.2e26310c.chunk.js.LICENSE.txt",
+    "static/js/2.dcd232ce.chunk.js.LICENSE.txt": "/HarryPotter/static/js/2.dcd232ce.chunk.js.LICENSE.txt",
     "static/media/likeBlack.e4ffc781.png": "/HarryPotter/static/media/likeBlack.e4ffc781.png",
     "static/media/likeRed.600eddce.png": "/HarryPotter/static/media/likeRed.600eddce.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ae3c79a.js",
-    "static/js/2.2e26310c.chunk.js",
+    "static/js/runtime-main.8f8acddf.js",
+    "static/js/2.dcd232ce.chunk.js",
     "static/css/main.21504a2f.chunk.css",
-    "static/js/main.3904d7ea.chunk.js"
+    "static/js/main.b59d193f.chunk.js"
   ]
 }
